@@ -3,7 +3,7 @@ name: Deploy from Notion to Pages
 # on: [workflow_dispatch]
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" # Run daily at midnight
     
 jobs:
   download_old-generate-push:
@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.10.0
+          python-version: 3.10
           
       - name: Download notion4ever
         uses: actions/checkout@v2
