@@ -1,14 +1,13 @@
 name: Deploy from Notion to Pages
 
-# on: [workflow_dispatch]
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Run daily at midnight
+    - cron: "0 0 * * *" 
     
 jobs:
   download_old-generate-push:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     
     steps:
         # Download packages
@@ -21,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: 3.13
           
       - name: Download notion4ever
         uses: actions/checkout@v4
@@ -34,20 +33,27 @@ jobs:
       - name: Download current version of the site
         uses: actions/checkout@v4
         with:
-          repository: 'hayleyqc/hayleyqc.github.io'
+          repository: 'MerkulovDaniil/merkulovdaniil.github.io'
           ref: main
           path: _site
           
       - name: Run notion4ever
         run: python -m notion4ever
         env:
-            SITE_URL: "https://hayleyqc.github.io"
+            SITE_URL: "https://merkulov.top"
+            INCLUDE_FOOTER: True
+            INCLUDE_SEARCH: True
             NOTION_TOKEN: ${{secrets.NOTION_TOKEN}}
             NOTION_PAGE_ID: ${{secrets.NOTION_PAGE_ID}}
+            
+      - name: List files in the repository
+        run: ls $GITHUB_WORKSPACE
       
       - name: Deploy to Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          folder: _site
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: main
+          FOLDER: _site
+          COMMIT_MESSAGE: 🤖 Deployed via notion4ever.
+          
