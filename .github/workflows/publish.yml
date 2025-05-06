@@ -48,7 +48,5 @@ jobs:
       - name: Deploy to Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: main
-          FOLDER: _site
-          COMMIT_MESSAGE: 🤖 Deployed via notion4ever.
+          branch: main
+          folder: .
