@@ -48,4 +48,6 @@ jobs:
       - name: Deploy to Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: .
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          folder: _site
