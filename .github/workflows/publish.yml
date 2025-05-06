@@ -33,14 +33,14 @@ jobs:
       - name: Download current version of the site
         uses: actions/checkout@v4
         with:
-          repository: 'MerkulovDaniil/merkulovdaniil.github.io'
+          repository: 'hayleyqc/hayleyqc.github.io'
           ref: main
           path: _site
           
       - name: Run notion4ever
         run: python -m notion4ever
         env:
-            SITE_URL: "https://merkulov.top"
+            SITE_URL: "https://hayleyqc.github.io"
             INCLUDE_FOOTER: True
             INCLUDE_SEARCH: True
             NOTION_TOKEN: ${{secrets.NOTION_TOKEN}}
@@ -56,4 +56,3 @@ jobs:
           BRANCH: main
           FOLDER: _site
           COMMIT_MESSAGE: 🤖 Deployed via notion4ever.
-          
