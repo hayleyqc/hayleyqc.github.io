@@ -50,7 +50,7 @@ jobs:
         run: ls $GITHUB_WORKSPACE
       
       - name: Deploy to Pages
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.GH_PAT }}
           branch: main
