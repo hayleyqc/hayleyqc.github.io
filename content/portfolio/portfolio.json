@@ -5,9 +5,9 @@
     "headerTaglineThree": "Passionate 🔥 about playing with layout and composition 🖼️",
     "headerTaglineFour": "In love with hitting up new spots, pop music, traveling, and food.\nBased in San Francisco Bay Area 🇺🇸\u00a0and open to new challenges and opportunities.",
     "showCursor": false,
-    "showBlog": true,
-    "darkMode": true,
-    "showResume": true,
+    "showBlog": false,
+    "darkMode": false,
+    "showResume": false,
     "socials": [
         {
             "id": "1",
