@@ -1,0 +1,122 @@
+{
+    "name": "Design | Hayley",
+    "headerTaglineOne": "Hey, I’m Hayley 👋",
+    "headerTaglineTwo": "UI/UX Designer 👩🏼‍💻 with architectural background 🏛️",
+    "headerTaglineThree": "Passionate 🔥 about playing with layout and composition 🖼️",
+    "headerTaglineFour": "In love with hitting up new spots, pop music, traveling, and food.\nBased in San Francisco Bay Area 🇺🇸\u00a0and open to new challenges and opportunities.",
+    "showCursor": false,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/hayleyqc/"
+        },
+        {
+            "id": "2",
+            "title": "Email",
+            "link": "mailto:hayleyqc@outlook.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Design System for Trip E-Booking",
+            "description": "Design",
+            "imageSrc": "/design-system-for-trip-ebooking/cover.jpg",
+            "url": "/blog/design-system-for-trip-ebooking",
+            "slug": "design-system-for-trip-ebooking"
+        },
+        {
+            "id": "2",
+            "title": "Design of Trip E-Booking Finance Module",
+            "description": "Web/App Design",
+            "imageSrc": "/design-of-trip-ebooking-finance-module/cover.jpg",
+            "url": "/blog/design-of-trip-ebooking-finance-module",
+            "slug": "design-of-trip-ebooking-finance-module"
+        },
+        {
+            "id": "3",
+            "title": "Simplify Image Uploading on Trip E-Booking",
+            "description": "Design",
+            "imageSrc": "/simplify-image-uploading-on-trip-ebooking/cover.jpg",
+            "url": "/blog/simplify-image-uploading-on-trip-ebooking",
+            "slug": "simplify-image-uploading-on-trip-ebooking"
+        },
+        {
+            "id": "4",
+            "title": "Optimizing E-Booking User Invite and Roles",
+            "description": "Web Design",
+            "imageSrc": "/optimizing-ebooking-user-invite-and-roles/cover.jpg",
+            "url": "/blog/optimizing-ebooking-user-invite-and-roles",
+            "slug": "optimizing-ebooking-user-invite-and-roles"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Art Direction",
+            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        },
+        {
+            "id": "2",
+            "title": "Branding",
+            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id": "4",
+            "title": "3D Design",
+            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        }
+    ],
+    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
