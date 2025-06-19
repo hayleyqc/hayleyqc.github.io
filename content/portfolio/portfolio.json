@@ -1,9 +1,10 @@
 {
     "name": "Design | Hayley",
-    "headerTaglineOne": "Hey, I’m Hayley 👋",
-    "headerTaglineTwo": "UI/UX Designer 👩🏼‍💻 with architectural background 🏛️",
-    "headerTaglineThree": "Passionate 🔥 about playing with layout and composition 🖼️",
-    "headerTaglineFour": "In love with hitting up new spots, pop music, traveling, and food.\nBased in San Francisco Bay Area 🇺🇸\u00a0and open to new challenges and opportunities.",
+    "headerTaglineOne": "Hey, I'm Hayley 👋",
+    "headerTaglineTwo": "UX Designer 👩🏼‍💻 with architectural background 🏛️",
+    "headerTaglineThree": "Passionate 🔥 about seamless interactions that make technology feel effortless and engaging 🖼️",
+    "headerTaglineFour": "In love with hitting up new spots, pop music, traveling, and food 🥘",
+    "headerTaglineFive": "Based in San Francisco Bay Area 🌉",
     "showCursor": false,
     "showBlog": false,
     "darkMode": false,
@@ -18,13 +19,18 @@
             "id": "2",
             "title": "Email",
             "link": "mailto:hayleyqc@outlook.com"
+        },
+        {
+            "id": "3",
+            "title": "Instagram",
+            "link": "https://www.instagram.com/hylycq6/"
         }
     ],
     "projects": [
         {
             "id": "1",
             "title": "Design System for Trip E-Booking",
-            "description": "Design",
+            "description": "Design System, Brand Guide",
             "imageSrc": "/design-system-for-trip-ebooking/cover.jpg",
             "url": "/blog/design-system-for-trip-ebooking",
             "slug": "design-system-for-trip-ebooking"
@@ -32,7 +38,7 @@
         {
             "id": "2",
             "title": "Design of Trip E-Booking Finance Module",
-            "description": "Web/App Design",
+            "description": "Web/Mobile Design, Demo",
             "imageSrc": "/design-of-trip-ebooking-finance-module/cover.jpg",
             "url": "/blog/design-of-trip-ebooking-finance-module",
             "slug": "design-of-trip-ebooking-finance-module"
@@ -40,7 +46,7 @@
         {
             "id": "3",
             "title": "Simplify Image Uploading on Trip E-Booking",
-            "description": "Design",
+            "description": "Web Design, User Flow",
             "imageSrc": "/simplify-image-uploading-on-trip-ebooking/cover.jpg",
             "url": "/blog/simplify-image-uploading-on-trip-ebooking",
             "slug": "simplify-image-uploading-on-trip-ebooking"
@@ -48,7 +54,7 @@
         {
             "id": "4",
             "title": "Optimizing E-Booking User Invite and Roles",
-            "description": "Web Design",
+            "description": "Web Design, Demo",
             "imageSrc": "/optimizing-ebooking-user-invite-and-roles/cover.jpg",
             "url": "/blog/optimizing-ebooking-user-invite-and-roles",
             "slug": "optimizing-ebooking-user-invite-and-roles"
@@ -76,7 +82,10 @@
             "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
         }
     ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "aboutpara": [
+        "I began my career as an architectural designer, developing a strong eye for detail and user-centered thinking. Seeking greater impact, I transitioned to UX design at Trip.com, a leading global travel platform based in Shanghai.",
+        "I'm passionate about creating intuitive, visually engaging digital experiences that simplify complex tasks and delight users."
+    ],
     "resume": {
         "tagline": "👋  I'm a software engineer, product designer.",
         "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",

@@ -31,9 +31,9 @@
   @apply opacity-80 font-bold text-base underline transition-all duration-200 ease-out hover:opacity-100;
 }
 
-.markdown-class p {
+/* .markdown-class p {
   @apply mt-2 opacity-80 leading-7 font-normal text-base;
-}
+} */
 
 .markdown-class strong {
   @apply font-extrabold;
@@ -71,12 +71,4 @@
 
 .markdown-class blockquote p {
   @apply text-black text-sm;
-}
-
-
-
-/* Image */
-
-.markdown-class img {
-  @apply max-w-full h-auto my-5 rounded-lg shadow-lg;
 }

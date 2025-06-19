@@ -23,18 +23,18 @@ const BlogPost = ({ post }) => {
   return (
     <>
       <Head>
-        <title>{"Blog - " + post.title}</title>
+        <title>{"Post - " + post.title}</title>
         <meta name="description" content={post.preview} />
       </Head>
       {data.showCursor && <Cursor />}
 
       <div
-        className={`container mx-auto mt-10 ${
+        className={`container mx-auto mt-24 ${
           data.showCursor && "cursor-none"
         }`}
       >
         <Header isBlog={true} />
-        <div className="mt-10 flex flex-col">
+        <div className="mt-24 flex flex-col">
           <img
             className="w-full h-96 rounded-lg shadow-lg object-cover"
             src={post.image}
