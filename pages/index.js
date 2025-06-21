@@ -72,31 +72,31 @@ export default function Home() {
           <div className="mt-5">
             <h1
               ref={textOne}
-              className="text-xl tablet:text-4xl laptop:text-5xl laptopl:text-6xl p-1 tablet:p-2 font-bold w-4/5 mob:w-full laptop:w-4/5"
+              className="text-xl tablet:text-4xl laptop:text-5xl laptopl:text-6xl p-1 tablet:p-2 font-bold w-full sm:w-4/5 laptop:w-4/5"
             >
               {data.headerTaglineOne}
             </h1>
             <h1
               ref={textTwo}
-              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-4/5 mob:w-full laptop:w-4/5"
+              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-full sm:w-4/5 laptop:w-4/5"
             >
               {data.headerTaglineTwo}
             </h1>
             <h1
               ref={textThree}
-              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-4/5 mob:w-full laptop:w-4/5"
+              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-full sm:w-4/5 laptop:w-4/5"
             >
               {data.headerTaglineThree}
             </h1>
             <h1
               ref={textFour}
-              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-4/5 mob:w-full laptop:w-4/5"
+              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-full sm:w-4/5 laptop:w-4/5"
             >
               {data.headerTaglineFour}
             </h1>
             <h1
               ref={textFive}
-              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-4/5 mob:w-full laptop:w-4/5"
+              className="text-base tablet:text-2xl laptop:text-3xl laptopl:text-4xl p-1 tablet:p-2 w-full sm:w-4/5 laptop:w-4/5"
             >
               {data.headerTaglineFive}
             </h1>
