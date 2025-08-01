@@ -7,25 +7,33 @@ image: "/optimizing-ebooking-user-invite-and-roles/hero_user_invite.jpg"
 author: "Hayley Chen"
 ---
 
-![Intro](/optimizing-ebooking-user-invite-and-roles/u01.jpg)
-![Add User GIF](/optimizing-ebooking-user-invite-and-roles/btw_12_add_user.gif)
-![Edit User GIF](/optimizing-ebooking-user-invite-and-roles/btw_12_edit_user.gif)
-<div align="center">
+<img src="/optimizing-ebooking-user-invite-and-roles/u01.jpg" alt="Intro" />
+
+<figure align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_12_add_user.gif" alt="Add User GIF"/>
+  <figcaption>Add User</figcaption>
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_12_edit_user.gif" alt="Edit User GIF"/>
-</div>
-![Description of image 2](/optimizing-ebooking-user-invite-and-roles/u02.jpg)
-![Mock 1](/optimizing-ebooking-user-invite-and-roles/btw_23_mock_1.gif)
-![Description of image 3](/optimizing-ebooking-user-invite-and-roles/u03.jpg)
-![Mock 2](/optimizing-ebooking-user-invite-and-roles/btw_34_mock_2.gif)
-![Description of image 4](/optimizing-ebooking-user-invite-and-roles/u04.jpg)
-![Auto-match](/optimizing-ebooking-user-invite-and-roles/btw_45_automatch.gif)
-![Description of image 5](/optimizing-ebooking-user-invite-and-roles/u05.jpg)
-![Re-invite](/optimizing-ebooking-user-invite-and-roles/btw_56_reinvite.gif)
-![Description of image 6](/optimizing-ebooking-user-invite-and-roles/u06.jpg)
+  <figcaption>Edit User</figcaption>
+</figure>
 
-# Demo (Add User)
-<Vimeo id="1094275328" />
-
-# Demo (Edit User)
-<Vimeo id="1094275339" />
+<img src="/optimizing-ebooking-user-invite-and-roles/u02.jpg" alt="Description of image 2" />
+<figure align="center">
+  <img src="/optimizing-ebooking-user-invite-and-roles/btw_23_mock_1.gif" alt="Mock 1" />
+  <figcaption>Mock 1</figcaption>
+</figure>
+<img src="/optimizing-ebooking-user-invite-and-roles/u03.jpg" alt="Description of image 3" />
+<figure align="center">
+  <img src="/optimizing-ebooking-user-invite-and-roles/btw_34_mock_2.gif" alt="Mock 2" />
+  <figcaption>Mock 2</figcaption>
+</figure>
+<img src="/optimizing-ebooking-user-invite-and-roles/u04.jpg" alt="Description of image 4" />
+<figure align="center">
+  <img src="/optimizing-ebooking-user-invite-and-roles/btw_45_automatch.gif" alt="Auto-match" />
+  <figcaption>Auto-match on role and permission</figcaption>
+</figure>
+<img src="/optimizing-ebooking-user-invite-and-roles/u05.jpg" alt="Description of image 5" />
+<figure align="center">
+  <img src="/optimizing-ebooking-user-invite-and-roles/btw_56_reinvite.gif" alt="Re-invite" />
+  <figcaption>Re-invite user</figcaption>
+</figure>
+<img src="/optimizing-ebooking-user-invite-and-roles/u06.jpg" alt="Description of image 6" />
