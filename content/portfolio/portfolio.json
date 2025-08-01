@@ -37,6 +37,14 @@
         },
         {
             "id": "2",
+            "title": "Optimizing E-Booking User Invite and Roles",
+            "description": "Web Design, Demo",
+            "imageSrc": "/optimizing-ebooking-user-invite-and-roles/cover.jpg",
+            "url": "/blog/optimizing-ebooking-user-invite-and-roles",
+            "slug": "optimizing-ebooking-user-invite-and-roles"
+        },
+        {
+            "id": "3",
             "title": "Design of Trip E-Booking Finance Module",
             "description": "Web/Mobile Design, Demo",
             "imageSrc": "/design-of-trip-ebooking-finance-module/cover.jpg",
@@ -44,21 +52,14 @@
             "slug": "design-of-trip-ebooking-finance-module"
         },
         {
-            "id": "3",
+            "id": "4",
             "title": "Simplify Image Uploading on Trip E-Booking",
             "description": "Web Design, User Flow",
             "imageSrc": "/simplify-image-uploading-on-trip-ebooking/cover.jpg",
             "url": "/blog/simplify-image-uploading-on-trip-ebooking",
             "slug": "simplify-image-uploading-on-trip-ebooking"
-        },
-        {
-            "id": "4",
-            "title": "Optimizing E-Booking User Invite and Roles",
-            "description": "Web Design, Demo",
-            "imageSrc": "/optimizing-ebooking-user-invite-and-roles/cover.jpg",
-            "url": "/blog/optimizing-ebooking-user-invite-and-roles",
-            "slug": "optimizing-ebooking-user-invite-and-roles"
         }
+        
     ],
     "services": [
         {
