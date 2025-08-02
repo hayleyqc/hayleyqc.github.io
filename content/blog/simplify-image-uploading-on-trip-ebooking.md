@@ -1,5 +1,5 @@
 ---
-title: "Simplify Image Uploading on Trip E-Booking"
+title: ""
 date: "2025-06-01"
 slug: "simplify-image-uploading-on-trip-ebooking"
 preview: "A case study on the design of the finance module in Trip E-Booking."

@@ -5,12 +5,13 @@ import data from "../../content/portfolio/portfolio.json";
 import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { FaInstagramSquare } from "react-icons/fa";
-
+import { FaFile } from "react-icons/fa";
 
 const iconMap = {
   LinkedIn: <FaLinkedin size={26} />,
   Email: <MdEmail size={26} />,
-  Instagram: <FaInstagramSquare size={26} />
+  Instagram: <FaInstagramSquare size={26} />,
+  Resume: <FaFile size={26} />
 };
 
 const Socials = ({ className = "" }) => (

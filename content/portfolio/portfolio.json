@@ -18,26 +18,31 @@
         {
             "id": "2",
             "title": "Email",
-            "link": "mailto:hayleyqc@outlook.com"
+            "link": "mailto:quanchenux@gmail.com"
         },
         {
             "id": "3",
             "title": "Instagram",
             "link": "https://www.instagram.com/hylycq6/"
+        },
+        {
+            "id": "4",
+            "title": "Resume",
+            "link": "/resume.pdf"
         }
     ],
     "projects": [
         {
             "id": "1",
-            "title": "Design System for Trip E-Booking",
-            "description": "Design System, Brand Guide",
+            "title": "Design System for Trip eBooking",
+            "description": "B2B, Design System, Brand Guide",
             "imageSrc": "/design-system-for-trip-ebooking/cover.jpg",
             "url": "/blog/design-system-for-trip-ebooking",
             "slug": "design-system-for-trip-ebooking"
         },
         {
             "id": "2",
-            "title": "Optimizing E-Booking User Invite and Roles",
+            "title": "Optimizing eBooking User Invite and Roles",
             "description": "Web Design, Demo",
             "imageSrc": "/optimizing-ebooking-user-invite-and-roles/cover.jpg",
             "url": "/blog/optimizing-ebooking-user-invite-and-roles",
@@ -45,7 +50,7 @@
         },
         {
             "id": "3",
-            "title": "Design of Trip E-Booking Finance Module",
+            "title": "Design of Trip eBooking Finance Module",
             "description": "Web/Mobile Design, Demo",
             "imageSrc": "/design-of-trip-ebooking-finance-module/cover.jpg",
             "url": "/blog/design-of-trip-ebooking-finance-module",
@@ -53,7 +58,7 @@
         },
         {
             "id": "4",
-            "title": "Simplify Image Uploading on Trip E-Booking",
+            "title": "Simplifying Image Uploading on Trip eBooking",
             "description": "Web Design, User Flow",
             "imageSrc": "/simplify-image-uploading-on-trip-ebooking/cover.jpg",
             "url": "/blog/simplify-image-uploading-on-trip-ebooking",
