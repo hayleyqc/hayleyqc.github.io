@@ -9,31 +9,31 @@ author: "Hayley Chen"
 
 <img src="/optimizing-ebooking-user-invite-and-roles/u01.jpg" alt="Intro" />
 
-<figure style="text-align: center;">
+<div align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_12_add_user.gif" alt="Add User GIF"/>
-  <figcaption>Add User</figcaption>
+  <p>Add User</p>
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_12_edit_user.gif" alt="Edit User GIF"/>
-  <figcaption>Edit User</figcaption>
-</figure>
+  <p>Edit User</p>
+</div>
 
 <img src="/optimizing-ebooking-user-invite-and-roles/u02.jpg" alt="Description of image 2" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_23_mock_1.gif" alt="Mock 1" />
-  <figcaption>Mock 1</figcaption>
-</figure>
+  <p>Mock 1</p>
+</div>
 <img src="/optimizing-ebooking-user-invite-and-roles/u03.jpg" alt="Description of image 3" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_34_mock_2.gif" alt="Mock 2" />
-  <figcaption>Mock 2</figcaption>
-</figure>
+  <p>Mock 2</p>
+</div>
 <img src="/optimizing-ebooking-user-invite-and-roles/u04.jpg" alt="Description of image 4" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_45_automatch.gif" alt="Auto-match" />
-  <figcaption>Auto-match on role and permission</figcaption>
-</figure>
+  <p>Auto-match on role and permission</p>
+</div>
 <img src="/optimizing-ebooking-user-invite-and-roles/u05.jpg" alt="Description of image 5" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/optimizing-ebooking-user-invite-and-roles/btw_56_reinvite.gif" alt="Re-invite" />
-  <figcaption>Re-invite user</figcaption>
-</figure>
+  <p>Re-invite user</p>
+</div>
 <img src="/optimizing-ebooking-user-invite-and-roles/u06.jpg" alt="Description of image 6" />

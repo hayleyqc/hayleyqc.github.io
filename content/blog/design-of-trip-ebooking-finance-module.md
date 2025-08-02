@@ -8,27 +8,23 @@ author: "Hayley Chen"
 ---
 
 <img src="/design-of-trip-ebooking-finance-module/f01.jpg" alt="Intro" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/design-of-trip-ebooking-finance-module/btw_12_collect.gif" alt="Collect" />
-  <figcaption>Collect</figcaption>
-</figure>
+  <p>Collect</p>
+</div>
 <img src="/design-of-trip-ebooking-finance-module/f02.jpg" alt="Description of image 2" />
 <img src="/design-of-trip-ebooking-finance-module/f03.jpg" alt="Description of image 3" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/design-of-trip-ebooking-finance-module/btw_34_edit.gif" alt="Edit" />
-  <figcaption>Edit</figcaption>
-</figure>
-<figure style="text-align: center;">
+  <p>Edit</p>
   <img src="/design-of-trip-ebooking-finance-module/btw_34_pay.gif" alt="Pay" />
-  <figcaption>Pay</figcaption>
-</figure>
+  <p>Pay</p>
+</div>
 <img src="/design-of-trip-ebooking-finance-module/f04.jpg" alt="Description of image 4" />
-<figure style="text-align: center;">
+<div align="center">
   <img src="/design-of-trip-ebooking-finance-module/btw_45_app_1.gif" alt="APP 1" />
-  <figcaption>APP 1</figcaption>
-</figure>
-<figure style="text-align: center;">
+  <p>APP 1</p>
   <img src="/design-of-trip-ebooking-finance-module/btw_45_app_2.gif" alt="APP 2" />
-  <figcaption>APP 2</figcaption>
-</figure>
+  <p>APP 2</p>
+</div>
 <img src="/design-of-trip-ebooking-finance-module/f05.jpg" alt="Description of image 5" />
