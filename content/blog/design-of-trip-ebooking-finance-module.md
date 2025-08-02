@@ -15,10 +15,13 @@ author: "Hayley Chen"
 <img src="/design-of-trip-ebooking-finance-module/f02.jpg" alt="Description of image 2" />
 <img src="/design-of-trip-ebooking-finance-module/f03.jpg" alt="Description of image 3" />
 <figure style="text-align: center;">
-  <img src="/design-of-trip-ebooking-finance-module/btw_23_edit.gif" alt="Edit" />
+  <img src="/design-of-trip-ebooking-finance-module/btw_34_edit.gif" alt="Edit" />
   <figcaption>Edit</figcaption>
 </figure>
-<img src="/design-of-trip-ebooking-finance-module/btw_34_pay.gif" alt="Pay" />
+<figure style="text-align: center;">
+  <img src="/design-of-trip-ebooking-finance-module/btw_34_pay.gif" alt="Pay" />
+  <figcaption>Pay</figcaption>
+</figure>
 <img src="/design-of-trip-ebooking-finance-module/f04.jpg" alt="Description of image 4" />
 <figure style="text-align: center;">
   <img src="/design-of-trip-ebooking-finance-module/btw_45_app_1.gif" alt="APP 1" />
